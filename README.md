@@ -1,6 +1,22 @@
-Hello there!
-My name is Mandip Amgain, and I am an associate's degree candidate in computer science at Bunker Hill Community College.
-I intend to transfer to a four-year university to earn my bachelor's degree when I complete my associate's.
-Technology has always piqued my interest, and I enjoy picking up new programming languages and frameworks.
-HTML, CSS, Linux, JavaScript, Java, and Python are a few of the skills I've learned.
-I am continually looking for ways to enhance and broaden my knowledge, and I am open to discovering new things.
+# Mandip Amgain
+
+## Contact Information
+- **Email:** mandip.amgain123@gmail.com
+- **LinkedIn:** [mdip00](https://www.linkedin.com/in/mdip00/)
+- **Portfolio:** [https://mandip77.github.io/Portfolio/](https://mandip77.github.io/Portfolio/)
+
+## Education
+- **Bachelor of Science in Information Technology**
+  - Northeastern University, Expected Graduation: December 2025
+- **Associate of Science in Computer Science**
+  - Bunker Hill Community College, Graduation Date: 2023
+  - Relevant Coursework: Data Structures and Algorithms, C++ Programming, Java Programming, MySQL, Android Development using Kotlin
+
+## Certifications
+- **Google IT Support**
+  - Provider: Google on Coursera, Date Earned: December 10, 2023
+
+## Technical Skills
+- **Programming Languages:** Java, Spring Boot, C++, Python, Kotlin (Android Development)
+- **Other Skills:** Client-server architecture, React, Databases, SQL, Git, GitHub, Linux, IT Support
+

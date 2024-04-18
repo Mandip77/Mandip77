@@ -18,5 +18,5 @@
 
 ## Technical Skills
 - **Programming Languages:** Java, Spring Boot, C++, Python, Kotlin (Android Development)
-- **Other Skills:** Client-server architecture, React, Databases, SQL, Git, GitHub, Linux, IT Support
+- **Other Skills:** React, Firebase, Databases, SQL, Git, GitHub, Linux, IT Support
 

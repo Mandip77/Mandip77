@@ -30,7 +30,7 @@
 
 ## 📚 Relevant Coursework
 - Data Structures & Algorithms
-- C++ and Java Programming
+- Java Programming
 - MySQL & Database Management
 - Android Development (Kotlin)
 

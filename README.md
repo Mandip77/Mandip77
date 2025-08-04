@@ -17,6 +17,6 @@
   - Provider: Google on Coursera, Date Earned: December 10, 2023
 
 ## Technical Skills
-- **Programming Languages:** Java, Spring Boot, C++, Python, Kotlin (Android Development)
+- **Programming Languages:** Java, Spring Boot, Python, Kotlin (Android Development)
 - **Other Skills:** React, Firebase, Databases, SQL, Git, GitHub, Linux, IT Support
 

@@ -39,9 +39,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mandip77&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Mandip77&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandip77&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/Mandip77?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Mandip77?label=Stars&style=social" />
+  <img src="https://img.shields.io/github/last-commit/Mandip77/Mandip77?label=Last%20Commit" />
 </p>
 
 <p align="center">

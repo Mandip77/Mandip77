@@ -39,17 +39,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mandip77&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandip77&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/Mandip77?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/Mandip77?label=Stars&style=social" />
   <img src="https://img.shields.io/github/last-commit/Mandip77/Mandip77?label=Last%20Commit" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Mandip77">
-    <img src="https://img.shields.io/github/followers/Mandip77?label=Follow&style=social" alt="GitHub Followers" />
-    <img src="https://img.shields.io/github/stars/Mandip77?style=social" alt="GitHub Stars" />
-  </a>
-</p>
+
 
 <hr/>
 

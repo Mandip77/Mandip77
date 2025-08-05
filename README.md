@@ -41,7 +41,23 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mandip77&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mandip77&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mandip77&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/Mandip77">
+    <img src="https://img.shields.io/github/followers/Mandip77?label=Follow&style=social" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/Mandip77?style=social" alt="GitHub Stars" />
+  </a>
+</p>
+
+<hr/>
+
+<p align="center">
+  🚀 Passionate about <b>coding</b>, <b>open source</b>, and <b>learning new technologies</b>!<br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
 
 ---
 

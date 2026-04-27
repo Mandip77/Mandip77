@@ -15,7 +15,7 @@
 
 I'm an IT and cybersecurity professional finishing my **B.S. in Information Technology** at Northeastern University, actively pursuing entry-level **security analyst** and **penetration testing** roles.
 
-I bring a builder's perspective to security — from Java microservices to full-stack web apps, I understand how systems are constructed, which helps me find where they break.
+I bring a builder's perspective to security - from Java microservices to full-stack web apps, I understand how systems are constructed, which helps me find where they break.
 
 - Focused on vulnerability research, lab-based pentesting, and securing digital systems
 - Independent security research published at my [Cyber Research Lab](https://Mandip77.github.io/cyber-blog/)

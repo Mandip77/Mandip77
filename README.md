@@ -30,7 +30,6 @@ I'm an **IT and cybersecurity professional** finishing my **B.S. in Information 
 
 I bring a **builder's perspective to security** — from Java microservices to full-stack web apps, I understand how systems are constructed, which helps me find where they break.
 
-<img align="right" alt="Hacking" width="200" src="https://media.giphy.com/media/SWoRKslHVtqgMwv5g5/giphy.gif"/>
 
 - 🔍 **Focused on** vulnerability research, lab-based pentesting, and securing digital systems
 - 📚 **Published independent security research** at my [Cyber Research Lab](https://Mandip77.github.io/cyber-blog/)

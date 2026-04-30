@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/mandip-amgain">
     <img src="https://img.shields.io/badge/LinkedIn-mandip--amgain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://mandip77.github.io/Portfolio-1/">
+  <a href="https://man-dip.dev/">
     <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://Mandip77.github.io/cyber-blog/">

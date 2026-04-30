@@ -105,8 +105,8 @@ I bring a **builder's perspective to security** - from Java microservices to ful
   </tr>
   <tr>
     <td>
-      <strong>🤖 AI Content Repurposer</strong><br/>
-      AI-powered content transformation tool with protected routes and monorepo architecture.
+      <strong>🤖 Lurk: AI Security Scanner</strong><br/>
+      Production SaaS that detects vulnerabilities in AI-generated code. GitHub App scans every PR using Claude AI and posts a detailed findings report.
     </td>
   </tr>
 </table>

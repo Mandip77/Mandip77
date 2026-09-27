@@ -28,7 +28,7 @@
 
 I'm an **Information Technology graduate** from **Northeastern University** actively seeking **Software Developer**, **Full-Stack Engineer**, and **IT Specialist** roles.
 
-I bring a **security-first mindset to software engineering** — from Java microservices to cloud infrastructure and modern web applications, I don't just build features; I write defensive code, eliminate vulnerabilities early, and architect systems that are resilient under pressure.
+I bring a **security-first mindset to software engineering** - from Java microservices to cloud infrastructure and modern web applications, I don't just build features; I write defensive code, eliminate vulnerabilities early, and architect systems that are resilient under pressure.
 
 - 💻 **Full-Stack Development:** Architecting responsive apps, microservices, and REST APIs using Java, Python, Go, and React
 - ☁️ **Cloud & IT Infrastructure:** Containerizing stacks with Docker, managing AWS cloud environments, and streamlining CI/CD pipelines
